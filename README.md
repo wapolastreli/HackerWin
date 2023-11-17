@@ -1,7 +1,9 @@
 <h1 align="center"> Landing Page Hacker Win</h1>
 
 <img alt="Prévia Landing Page" src="./img/preview.png" width="100%">
-<img alt="Prévia Landing Page" src="./img/preview-mobile.png" align="Center">
+<p align="center">
+  <img src="./img/preview-mobile.png" alt="Prévia Mobile">
+</p>
 
 ## 🚀 Tecnologias
 
